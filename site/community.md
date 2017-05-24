@@ -76,6 +76,10 @@ Here are some opportunities to meet with members of the community to learn and s
     <p><img src="/assets/images/events/openexpo2017.png" alt="OpenExpo 2017" /></p>
     <p><a href="http://www.openexpo.es/en/">OpenExpo 2017</a> <br /> June 1, 2017 in Madrid, Spain</p>
   </div>
+  <div class="col-md-6">
+    <p><img src="/assets/images/events/ansiblefestlnd17.png" alt="AnsibleFest London 2017" /></p>
+    <p><a href="https://www.ansible.com/ansiblefest/london">#AnsibleFest London 2017</a> <br /> June 22, 2017 in London, UK</p>
+  </div>
 </div>
 
 ### Past Events
